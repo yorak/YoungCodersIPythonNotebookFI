@@ -1,5 +1,5 @@
 # YoungCodersIPythonNotebookFI
-Suomenkielinen IPython Notebook, joka seurailee Young Coders -opasta PyCon 2014:sta. Alkuperäislähde kalvoineen ja lisämateriaaleineen täällä: https://github.com/mechanicalgirl/young-coders-tutorial 
+Suomenkielinen IPython Notebook Python-ohjelmointikielen alkeiden opiskeluun. Opas seurailee Young Coders -opasta PyCon 2014 konferenssista. Alkuperäislähde kalvoineen ja lisämateriaaleineen täällä: https://github.com/mechanicalgirl/young-coders-tutorial 
 
 Suositeltavin tapa käyttää tätä lienee mennä kohta kohdalta yhdessä läpi, samalla antaen oppilaille riittävästi aikaa ratkoa tehtäviä. Aina itsenäisten isompien tehtävien aikana voi kierrellä luokassa ja autella.
 
