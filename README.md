@@ -5,8 +5,9 @@ Suositeltavin tapa käyttää tätä lienee mennä kohta kohdalta yhdessä läpi
 
 **Huomautus:** Ainoa, mikä alkuperäisessä kalvosarja-muotoisessa oppaassa oli, mutta tästä puuttuu, on oliot. Tämä on tarkoituksellista, sillä mielestäni olio-ohjelmointiin ei kannata alkeiden opiskelun aikana sekaantua. Nyt pistenotaatio kuitataan sillä, että modulit käyttävät sitä.
 
-TODO:
+IPython Notebook toimii selaimessa (Chrome, Firefox, IE, Safari jne.), mutta ei verkossa. Tämä siis tarkoittaa, että ajat omalla koneellasi IPyhton Notebook -palvelinohjelmaa, jota käytät selaimen kautta. Helpoin ja luokkaympäristössä helpoin tapa asentaa IPython Notebook lienee ladata Pyzo-jakelu, jonka asentamiseen ei tarvita pääkäyttäjen oikeuksia:
+* http://www.pyzo.org/
 
-[] Selitä pistenotaatio moduleiden kohdalla
-
-[] Muokkaa otsikot ipynb v4:n muotoisiksi, eli #:n jälkeen väli!
+Jos kuitenkin koneissa on jo Python tai haluat asentaa ohjelman pysyvästi koneelle. Seuraa jompaa kumpaa näistä ohjeista:
+* http://jupyter.readthedocs.org/en/latest/install.html
+* http://opentechschool.github.io/python-data-intro/core/notebook.html
