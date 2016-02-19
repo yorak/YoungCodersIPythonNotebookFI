@@ -1,4 +1,7 @@
 # YoungCodersIPythonNotebookFI
+
+*Engish summary: Translation of Young Coders PyCon 2014 presentation to Finnish and to IPython Notebook format. The rationale is to offer the students the possibility to go through the material at their own pace.*
+
 Suomenkielinen IPython Notebook Python-ohjelmointikielen alkeiden opiskeluun. Opas seurailee Young Coders -opasta PyCon 2014 konferenssista. Alkuperäislähde kalvoineen ja lisämateriaaleineen täällä: https://github.com/mechanicalgirl/young-coders-tutorial 
 
 Suositeltavin tapa käyttää tätä lienee mennä kohta kohdalta yhdessä läpi, samalla antaen oppilaille riittävästi aikaa ratkoa tehtäviä. Aina itsenäisten isompien tehtävien aikana voi kierrellä luokassa ja autella.
